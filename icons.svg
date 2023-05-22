@@ -9,7 +9,7 @@
    id="svg5"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="icons.svg"
-   inkscape:export-filename="tts-assets\st-check.png"
+   inkscape:export-filename="st-check.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,15 +27,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="5.0495043"
-     inkscape:cx="44.855888"
-     inkscape:cy="34.656867"
+     inkscape:zoom="14.282155"
+     inkscape:cx="36.794167"
+     inkscape:cy="31.577868"
      inkscape:window-width="2560"
      inkscape:window-height="1377"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer8" />
+     inkscape:current-layer="layer6" />
   <defs
      id="defs2" />
   <g
@@ -281,10 +281,23 @@
      inkscape:label="plus"
      style="display:none">
     <path
-       id="rect10890"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-       d="m 1.5368571,-6.8553955 h 5.3185384 v 5.3185384 h 3.2225425 v -5.3185384 h 5.318538 v -3.2225425 h -5.318538 v -5.318538 H 6.8553955 v 5.318538 H 1.5368571 Z"
-       transform="rotate(90)" />
+       id="rect567"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="M 6.8791669,1.5875002 V 6.8791669 H 1.5875002 v 3.1750001 h 5.2916667 v 5.291666 h 3.1750001 v -5.291666 h 5.291666 V 6.8791669 H 10.054167 V 1.5875002 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="minus"
+     style="display:none">
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect567-6"
+       width="3.175"
+       height="13.758333"
+       x="-10.054167"
+       y="1.5875001"
+       transform="rotate(-90)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -292,8 +305,9 @@
      inkscape:label="check"
      style="display:inline">
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-       d="M 14.37799,2.8743632 13.493502,3.7545479 6.668209,10.540072 3.4398304,7.3286871 2.5553431,6.4503438 0.79373919,8.2180788 1.6800692,9.0982636 6.668209,14.05897 15.255107,5.5222829 16.139594,4.6420982 Z"
-       id="path7899" />
+       id="rect567-5"
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="M 6.9171489,14.321219 16.381429,4.8574554 14.136087,2.6121141 6.9174076,9.8313123 2.7967287,5.710633 0.55190399,7.9559743 Z"
+       sodipodi:nodetypes="ccccccc" />
   </g>
 </svg>
