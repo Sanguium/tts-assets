@@ -28,14 +28,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="14.282155"
-     inkscape:cx="36.794167"
-     inkscape:cy="31.577868"
+     inkscape:cx="35.743906"
+     inkscape:cy="32.06799"
      inkscape:window-width="2560"
      inkscape:window-height="1377"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer6" />
+     inkscape:current-layer="layer2-2" />
   <defs
      id="defs2" />
   <g
@@ -301,9 +301,25 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="edit">
+    <g
+       inkscape:groupmode="layer"
+       id="layer2-2"
+       inkscape:label="minus"
+       style="display:inline"
+       transform="translate(0.09209071,0.03651425)">
+      <path
+         id="rect567-6-1"
+         style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+         d="M 2.3877377,12.171926 1.475315,15.329413 4.6328019,14.41699 13.082122,5.9676712 10.837057,3.722607 Z M 11.648993,2.9106716 13.894057,5.1557358 15.273836,3.775957 13.028772,1.5308927 Z" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="check"
-     style="display:inline">
+     style="display:none">
     <path
        id="rect567-5"
        style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
